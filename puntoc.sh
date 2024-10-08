@@ -25,4 +25,9 @@
    93  whoami > Examenes-UTN/alumno_1/validar.txt
    94  whoami > validar.txt
    95  ll
+  231  sudo chown  developer:developer Examenes-UTN/alumno_1
+  232  sudo chown  tester:tester Examenes-UTN/alumno_2
+  233  sudo chown  devops:devops Examenes-UTN/alumno_3
+  234  sudo useradd diseñador
+  235  sudo chown  diseñador:diseñador Examenes-UTN/profesores/
 
